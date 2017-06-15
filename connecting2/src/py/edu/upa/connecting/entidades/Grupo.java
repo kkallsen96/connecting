@@ -1,3 +1,6 @@
+/**
+ * comentario de prueba
+ */
 package py.edu.upa.connecting.entidades;
 
 import java.io.Serializable;
