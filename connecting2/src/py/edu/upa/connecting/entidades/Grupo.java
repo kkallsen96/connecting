@@ -1,5 +1,5 @@
 /**
- * comentario de prueba  
+ * comentario de prueba 2
  */
 package py.edu.upa.connecting.entidades;
 
